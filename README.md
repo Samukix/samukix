@@ -22,5 +22,5 @@
 ---
 
 🌙💖 **“A lua me lembra: cada linha de código é um passo na minha jornada mágica.”**
-![Sailor Moon GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVjbWY5Y2c4M3I3OGI5ajNncXJiOGEyZW9rNjZnZTFueDZzYms1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14t91QH2dEv9sI/giphy.gif)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVjbWY5Y2c4M3I3OGI5ajNncXJiOGEyZW9rNjZnZTFueDZzYms1ZSZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/14t91QH2dEv9sI/giphy.gif" width="400px" />
 

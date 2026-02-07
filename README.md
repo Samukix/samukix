@@ -22,5 +22,5 @@
 ---
 
 🌙💖 **“A lua me lembra: cada linha de código é um passo na minha jornada mágica.”**
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NiZzFpNXgzY2J6cGdxcWMzODc0OTFkeXM5bWszZzdhaDBvdXQzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VNrYFsnlo6Cc8KhyY7/giphy.gif" width="1200px" height="300px" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNic2cyc2o4eHNueHJidXlmejBhMmIzY3MxNnpmeGpjaDU1aGFkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5A5QFPx91VqGyfpEAw/giphy.gif" width="1200px" />
 

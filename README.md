@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Samukix!
 
-<!--
-**Samukix/samukix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou dev júnior de **Flutter/Dart** 🚀  
+🌱 Aprendendo e me especializando em **Flutter + Kotlin + PostgreSQL**  
+💡 Criando, codando e evoluindo todo dia!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Skills
+- **Mobile:** Flutter, Dart, Kotlin  
+- **Banco de Dados:** PostgreSQL  
+- **Versionamento:** Git & GitHub  
+- **Outros:** Curioso(a) por aprender sempre coisas novas!  
+
+✨ “Sempre aprendendo, sempre codando!”
